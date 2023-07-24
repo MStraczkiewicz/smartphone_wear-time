@@ -369,10 +369,8 @@ def estimate_smartphone_weartime(input_path: str, output_path: str) -> None:
 
 # Change input_path to path with Beiwe IDs
 input_path = ("C:/Users/mstra/Documents/data/STAR")
-# input_path = ("C:/Users/mstra/Documents/data/Sample Beiwe Dataset")
 
 # Change output_path to your desired destination
 output_path = ("C:/Users/mstra/Documents/Python/star")
-# output_path = ("C:/Users/mstra/Documents/Python/debbie")
 
 estimate_smartphone_weartime(input_path, output_path)
